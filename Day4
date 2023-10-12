@@ -1,0 +1,7 @@
+public class Day4 {
+    public static void main(String[] args) {
+    String nama="Arni";
+    byte umur = 20;
+    System.out.println("Nama\t :"+nama+"\nUmur\t :" +umur);
+}
+}
