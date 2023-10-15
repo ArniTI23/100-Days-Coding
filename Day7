@@ -1,0 +1,9 @@
+
+public class Day7 {
+    public static void main(String[] args){
+        String nama = "Arni";
+        long angkatan = 2023;
+        System.out.println("Nama\t :"+nama+"\nAngkatan\t :"+angkatan);
+    }
+    
+}
