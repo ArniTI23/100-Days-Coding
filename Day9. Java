@@ -1,0 +1,6 @@
+public class Day8 {
+    public static void main(String[] args){
+        float phi=3.14f;
+        System.out.println("π = "+phi);
+    }
+}
