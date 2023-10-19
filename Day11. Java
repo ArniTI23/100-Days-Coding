@@ -1,0 +1,15 @@
+public class Day11 {
+    public static void main(String[] args){
+        int target,penghasilan,pengeluaran,tabungan,total;
+        float waktu;
+        target=150000000;
+        penghasilan=13000000;
+        pengeluaran=8000000;
+        tabungan=penghasilan-pengeluaran;
+        total=target/tabungan;
+        waktu=total/12f;
+        System.out.println("Sambo harus menabung "+waktu+" tahun untuk membeli pc gaming");
+        
+    }
+    
+}
